@@ -33,7 +33,6 @@ real-time-face-recognition-with-knn/
 - Python 3.x
 - OpenCV
 - NumPy
-- Matplotlib
 
 ### 📦 Installation
 
